@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/arneheggestad/smallbatchircbot/issues"
   },
-  "homepage": "https://github.com/arneheggestad/smallbatchircbot"
+  "homepage": "https://github.com/arneheggestad/smallbatchircbot",
+  "dependencies": {
+    "irc": "^0.3.7"
+  }
 }
