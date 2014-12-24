@@ -1,0 +1,26 @@
+{
+  "name": "smallbatchircbot",
+  "version": "0.1.0",
+  "description": "An IRC bot for Small Batch Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arneheggestad/smallbatchircbot.git"
+  },
+  "keywords": [
+    "irc",
+    "bot",
+    "small",
+    "batch",
+    "development"
+  ],
+  "author": "Arne Heggestad <arne.heggestad@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arneheggestad/smallbatchircbot/issues"
+  },
+  "homepage": "https://github.com/arneheggestad/smallbatchircbot"
+}
